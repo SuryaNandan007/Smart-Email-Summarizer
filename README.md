@@ -3,6 +3,13 @@ Full MIT License included.
 # 1.Project Overview - Smart Email Summarizer Agent
 Managing emails is one of the most time-consuming tasks for professionals. Reading long messages,                 extracting key updates, and identifying action items is a repetitive and often overwhelming process. To address this challenge, I built the Smart Email Summarizer Agent—a multi-agent workflow that automatically processes raw emails and converts them into clean summaries and action-oriented task lists.This project demonstrates how AI agents can automate real-world daily productivity tasks by combining LLM-powered reasoning, tool use, memory, session management, and observability.
                            ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F30253270%2F9321cc75fc19f94d49c587fcfecee1af%2FScreenshot%202025-12-01%20194453.png?generation=1764598611705148&alt=media)
+# WHY — The Motivation Behind the Project
+
+Managing emails is a major productivity challenge for students, professionals, and teams.
+
+# WHAT — The Vision, Outcome, and Value
+
+This project is a multi-agent workflow designed to transform raw email content into a clean, structured summary with tasks and deadlines clearly identified.
 # 2.Problem Statement
 
 Users receive hundreds of emails every week, and manually sorting through them leads to:
