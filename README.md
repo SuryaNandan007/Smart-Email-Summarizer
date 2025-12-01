@@ -67,7 +67,7 @@ Summary accuracy
 Task extraction correctness
 
 Report generation success
-# Impact
+# 5. Impact
 
 The Smart Email Summarizer Agent reduces email processing time from minutes to seconds, helping users:
 
@@ -81,7 +81,7 @@ The Smart Email Summarizer Agent reduces email processing time from minutes to s
 
 This shows how AI agents can significantly enhance everyday productivity through structured task automation.
 
-# Conclusion 
+# 6. Conclusion 
 
 The Smart Email Summarizer Agent demonstrates how a multi-agent workflow can automate a real-world productivity challenge with clarity, accuracy, and efficiency. By breaking down email processing into specialized agent steps—reading, summarizing, extracting tasks, and generating reports—the system transforms unstructured email text into actionable insights within seconds. The architecture is modular, reliable, and easy to extend, making it suitable not only for personal productivity but also for larger workflow automation systems. This project highlights the practical power of agent-based design and shows how AI can meaningfully reduce manual effort in everyday communication tasks.
 
